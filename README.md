@@ -1,7 +1,6 @@
 # Express Starter Project
-
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
+First assignment working on the backend. Working on avocado sales, craving avocados!
 
 ## Getting started
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+Learning how to use Heroku to deploy this, view it live: https://w17-avocados.herokuapp.com/
